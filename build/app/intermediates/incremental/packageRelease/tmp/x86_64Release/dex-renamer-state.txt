@@ -1,0 +1,4 @@
+#Fri Sep 20 14:53:24 IST 2024
+base.0=D\:\\Flutter\\flutter projects\\coinbase\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

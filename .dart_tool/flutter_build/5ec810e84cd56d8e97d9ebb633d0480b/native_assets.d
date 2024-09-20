@@ -1,0 +1,1 @@
+ D:\\Flutter\\flutter\ projects\\coinbase\\.dart_tool\\flutter_build\\5ec810e84cd56d8e97d9ebb633d0480b\\native_assets.yaml: 
